@@ -1,36 +1,23 @@
 # MtGram Connect
 
-Клиент для ключа. Вставьте ключ, выберите сервер и подключитесь.
+Приложение для вашего ключа. Вставьте ключ, выберите сервер и подключитесь.
 
-Исходный код здесь не публикуется. Ниже только файлы для установки.
+| Windows | Android | iPhone и iPad | Mac |
+| --- | --- | --- | --- |
+| [Скачать](https://github.com/gramtools/mtgram/releases/latest/download/MtGram.Setup.exe) | [Скачать](https://github.com/gramtools/mtgram/releases/latest/download/MtGram.apk) | Скоро | Скоро |
 
-## Загрузки
+Сайт: [gramtools.ltd/mtgram](https://gramtools.ltd/mtgram)
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>Windows</h3>
-      <p>Windows 10 и новее, 64-бит</p>
-      <a href="https://github.com/gramtools/mtgram/releases/latest/download/MtGram.Setup.exe"><b>Скачать</b></a>
-    </td>
-    <td align="center" width="25%">
-      <h3>Android</h3>
-      <p>Файл apk. Если система спросит, разрешите установку</p>
-      <a href="https://github.com/gramtools/mtgram/releases/latest/download/MtGram.apk"><b>Скачать</b></a>
-    </td>
-    <td align="center" width="25%">
-      <h3>iPhone и iPad</h3>
-      <p>Сборка для App Store ещё готовится</p>
-      <b>Скоро</b>
-    </td>
-    <td align="center" width="25%">
-      <h3>Mac</h3>
-      <p>Образ появится вместе с подписью Apple</p>
-      <b>Скоро</b>
-    </td>
-  </tr>
-</table>
+## Что умеет
 
-Страница на сайте: [gramtools.ltd/mtgram/download](https://gramtools.ltd/mtgram/download)
+- Само выбирает лучший сервер из ключа
+- Само возвращает соединение, если сеть пропала
+- Показывает протокол и время отклика каждого сервера
+- Показывает остаток трафика и срок ключа на главном экране
+- Если выбранный сервер молчит, переходит на другой из той же страны
 
-Приложение само проверяет новую версию. Файл при этом скачивается отсюда.
+Ключи и настройки остаются на устройстве. Приложение не ведёт журналы и не продаёт доступ.
+
+Вопросы о приложении: [info@gramtools.ltd](mailto:info@gramtools.ltd)
+
+[Политика конфиденциальности](https://gramtools.ltd/mtgram/privacy) · [Условия](https://gramtools.ltd/mtgram/terms)
