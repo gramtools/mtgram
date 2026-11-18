@@ -1,14 +1,28 @@
-# MtGram Connect
+<p align="center">
+  <img src="https://gramtools.ltd/img/mtgram/app-icon-192.png" width="96" alt="">
+</p>
 
-Приложение для вашего ключа. Вставьте ключ, выберите сервер и подключитесь.
+<h1 align="center">MtGram Connect</h1>
 
-| Windows | Android | Mac | Linux | iPhone и iPad |
-| --- | --- | --- | --- | --- |
-| [1.0.34](https://github.com/gramtools/mtgram/releases/latest/download/MtGram.Setup.exe) | [1.0.41](https://github.com/gramtools/mtgram/releases/latest/download/MtGram.apk) | [1.0.10](https://github.com/gramtools/mtgram/releases/latest/download/MtGram.dmg) | [1.0.5](https://github.com/gramtools/mtgram/releases/latest/download/MtGram-linux-x64.tar.gz) | Скоро |
+<p align="center">
+  Вставьте ключ, выберите сервер и подключитесь.
+  <br>
+  <a href="https://gramtools.ltd/mtgram">gramtools.ltd/mtgram</a>
+</p>
 
-Mac — сборка, подписанная Apple. Linux — архив для 64-bit.
+## Загрузки
 
-Сайт: [gramtools.ltd/mtgram](https://gramtools.ltd/mtgram)
+<div align="left">
+
+| Система | Файл |
+| --- | --- |
+| Android | <a href="https://github.com/gramtools/mtgram/releases/latest/download/MtGram.apk"><img alt="Android 1.0.41" src="https://img.shields.io/badge/APK-1.0.41-3DDC84?logo=android&logoColor=white"></a> |
+| Windows | <a href="https://github.com/gramtools/mtgram/releases/latest/download/MtGram.Setup.exe"><img alt="Windows 1.0.34" src="https://img.shields.io/badge/Setup-1.0.34-0078D4?logo=windows&logoColor=white"></a> |
+| macOS | <a href="https://github.com/gramtools/mtgram/releases/latest/download/MtGram.dmg"><img alt="macOS 1.0.10" src="https://img.shields.io/badge/DMG-1.0.10-000000?logo=apple&logoColor=white"></a> |
+| Linux | <a href="https://github.com/gramtools/mtgram/releases/latest/download/MtGram-linux-x64.tar.gz"><img alt="Linux 1.0.5" src="https://img.shields.io/badge/tar.gz-1.0.5-FCC624?logo=linux&logoColor=black"></a> |
+| iPhone и iPad | <img alt="Скоро" src="https://img.shields.io/badge/App%20Store-скоро-8E8E93"> |
+
+</div>
 
 ## Что умеет
 
