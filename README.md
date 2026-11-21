@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/ru/app/mtgram-connect/id6834452101"><img alt="Загрузите в App Store" height="72" src="https://gramtools.ltd/img/stores/app-store-ru.svg"></a>
+  <a href="https://apps.apple.com/ru/app/mtgram-connect/id6834452101"><img alt="Загрузите в App Store" height="72" src="https://gramtools.ltd/img/stores/app-store-ru.png"></a>
   <a href="https://play.google.com/store/apps/details?id=ltd.gramtools.mtgram&hl=ru"><img alt="Скачать из Google Play" height="72" src="https://gramtools.ltd/img/stores/google-play-ru.png"></a>
 </p>
 
