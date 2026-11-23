@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gramtools.ltd/img/mtgram/app-icon-192.png" width="96" alt="">
+  <img src="https://gramtools.ltd/img/mtgram/app-icon-rounded.png" width="96" alt="">
 </p>
 
 <h1 align="center">MtGram Connect</h1>
