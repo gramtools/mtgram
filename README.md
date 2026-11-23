@@ -22,9 +22,9 @@
 | Система | Файл |
 | --- | --- |
 | Android | <a href="https://play.google.com/store/apps/details?id=ltd.gramtools.mtgram&hl=ru"><img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white"></a> <a href="https://github.com/gramtools/mtgram/releases/download/v1.0.47/MtGram.apk"><img alt="Android 1.0.47" src="https://img.shields.io/badge/APK-1.0.47-3DDC84?logo=android&logoColor=white"></a> |
-| Windows | <a href="https://github.com/gramtools/mtgram/releases/download/v1.0.47/MtGram.Setup.exe"><img alt="Windows 1.0.38" src="https://img.shields.io/badge/Setup-1.0.38-0078D4?logo=windows&logoColor=white"></a> |
-| macOS | <a href="https://github.com/gramtools/mtgram/releases/download/v1.0.47/MtGram.dmg"><img alt="macOS 1.0.14" src="https://img.shields.io/badge/DMG-1.0.14-000000?logo=apple&logoColor=white"></a> |
-| Linux | <a href="https://github.com/gramtools/mtgram/releases/download/v1.0.47/MtGram-linux-x64.tar.gz"><img alt="Linux 1.0.9" src="https://img.shields.io/badge/tar.gz-1.0.9-FCC624?logo=linux&logoColor=black"></a> |
+| Windows | <a href="https://github.com/gramtools/mtgram/releases/download/v1.0.47/MtGram.Setup.exe"><img alt="Windows 1.0.39" src="https://img.shields.io/badge/Setup-1.0.39-0078D4?logo=windows&logoColor=white"></a> |
+| macOS | <a href="https://github.com/gramtools/mtgram/releases/download/v1.0.47/MtGram.dmg"><img alt="macOS 1.0.15" src="https://img.shields.io/badge/DMG-1.0.15-000000?logo=apple&logoColor=white"></a> |
+| Linux | <a href="https://github.com/gramtools/mtgram/releases/download/v1.0.47/MtGram-linux-x64.tar.gz"><img alt="Linux 1.0.10" src="https://img.shields.io/badge/tar.gz-1.0.10-FCC624?logo=linux&logoColor=black"></a> |
 | iPhone и iPad | <a href="https://apps.apple.com/ru/app/mtgram-connect/id6834452101"><img alt="App Store" src="https://img.shields.io/badge/App_Store-414141?logo=apple&logoColor=white"></a> |
 
 </div>
